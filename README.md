@@ -1,2 +1,2 @@
-# Hibernate_Inheritance_JFSD
-Hibernate_Inheritance_JFSD
+# Hibernate_Inheritance
+hibernate inheritance 
